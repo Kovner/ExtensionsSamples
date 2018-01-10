@@ -13,7 +13,7 @@
   </dashboard-extension>
   <resources>
     <resource id="name">
-      <text locale="en_US">Dummy Extension #1</text>
+      <text locale="en_US">Dummy Extension #8</text>
     </resource>
   </resources>
 </manifest>
